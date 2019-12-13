@@ -1,2 +1,1 @@
-# HumanBody_Pose_Skeleton
-Using OpenCV
+# HumanBody-Skeleton-Detection-using-OpenCV
